@@ -1,5 +1,5 @@
 /* global hljs, $ */
-// New Stuff
+// New Stuff testing for no header bug.
 // initialize highlight.js for JavaScript code highlighting
 hljs.initHighlightingOnLoad()
 
